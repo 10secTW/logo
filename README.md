@@ -1,8 +1,5 @@
-# 10sec Team icon
-contributed by <`nashi5566`>
+# 10sec Team Logo
 
-## Usage
-
-Please open the source files with FireAlpaca.
-
-[FireAlpaca](http://firealpaca.com)
+## History
+* Version 1: Used in 2018/10/19 ~ 2019/11/15, by [@nashi5566](https://github.com/nashi5566)
+* Version 2: Current (2019/11/16 ~ )
